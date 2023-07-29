@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Navbar container */
+.mybg {
+  background-color: #044556;
+}
+
+/* Navbar brand text color */
+.navbar-brand {
+  color: #fff;
+}
+.btn {
+  box-shadow: none;
+}
